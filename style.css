@@ -1,0 +1,22 @@
+/*Unidades absolutas*/
+h1{
+font-size: 60px;
+}
+.parrafo-uno{
+font-size: 18px;
+}
+/*Unidades relativas*/
+.img {
+    width: 100%;
+}
+.parrafo-uno{
+    font-size: 2em;
+}
+/* Rem=> root */
+html{
+    font-size: 22px;
+}
+
+h1 {
+    4rem
+}
